@@ -1,0 +1,2 @@
+# Projeto-Horizon-Models
+ Projeto de criação de uma página de modelos utilizando somente html 5, utilizei tabelas para estruturar minha página (Sei que hoje em dia não se utiliza mais tabelas, e que temos outras estruturas semânticas para mantermos, porem resolvi utilizar para finalizar o projeto proposto em um dos cursos de desenvolvimento web, então, sim, eu sei que as tabelas não são ideais em estruturação de sites, mas esse foi o meu primeiro projeto de web no ano de 2020.)
